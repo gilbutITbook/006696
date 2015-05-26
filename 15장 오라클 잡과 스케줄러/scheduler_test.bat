@@ -1,0 +1,1 @@
+sqlplus ora_user/hong@myoracle @d:\insert_test.sql

@@ -1,0 +1,8 @@
+MIME (Multi-Purpose Internet Mail Extensions) is an extension of the original Internet e-mail 
+protocol that lets people use the protocol to exchange different kinds of data file on 
+the Internet: audio, video, images, application programs, and other kinds, 
+as well as the ASCII text handled in the original protocol, the Simple Mail Transfer Protocol (SMTP). 
+In 1991, Nathan Borenstein of Bellcore proposed to the IETF that the format of email messages 
+be extended so that email programs could recognize and handle kinds of data other than ASCII 
+text. As a result, conventions for labeling and packaging such data were added to email 
+as a supported type.
